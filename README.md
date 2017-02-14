@@ -1,2 +1,3 @@
 # gocd-node
-A GoCD agent used for running node.js tasks
+
+A [GoCD agent](https://hub.docker.com/r/gocd/gocd-agent/) with [node](https://nodejs.org) installed.
